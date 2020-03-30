@@ -60,3 +60,8 @@
 <li>You will then need to fill in the information for the DCR's and your VPS in the fields provided</li>
 <li>Once you have configured everything, you will need to go to "<b>http:/YOURSITE/housekeeping/index.php?p=server</b>"</li>
 <li>Here you will need to fill in the information of your VPS</li>
+<li>Clean! You have configured your <b>CMS</b>, your <b>EMU</b>, your <b>DCR's</b> and your <b>CLIENT</b></li>
+
+<hr>
+<h3>Play</h3>
+<li>Shockwave is not any more topical, and the v26 use it to function, of the blow, you will have to do without Chrome, Opera or Firefox to play your v26, it will then be necessary to install the navigator <a href="https://www.palemoon.org/download.shtml"><b>PaleMoon</b></a> which accepts <b>ShockWave</b></li>
