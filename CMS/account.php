@@ -2,7 +2,7 @@
 /*===================================================+
 || # HoloCMS - Website and Content Management System
 |+===================================================+
-|| # Copyright © 2008 Meth0d. All rights reserved.
+|| # Copyright ï¿½ 2008 Meth0d. All rights reserved.
 || # http://www.meth0d.org
 |+===================================================+
 || # HoloCMS is provided "as is" and comes without
@@ -395,7 +395,7 @@ Les v&ecirc;tements avec le symbole <img src="./web-gallery/v2/images/habboclub/
 
 <div id="settings-oldfigure" style="display: none">
 	<div class="rounded rounded-lightbrown clearfix">
-Ton habbo a besoin de couleurs et de v&ecirc;tements ! Clique Sur une tête pour faire apparaître le corps.
+Ton habbo a besoin de couleurs et de v&ecirc;tements ! Clique Sur une tï¿½te pour faire apparaï¿½tre le corps.
 	</div>
 </div>
 
@@ -408,13 +408,13 @@ Ton habbo a besoin de couleurs et de v&ecirc;tements ! Clique Sur une tête pour 
 <a href="#" id="settings-submit" class="new-button disabled-button"><b>Enregistrer</b><i></i></a>
 
 <script type="text/javascript" language="JavaScript">
-var swfobj = new SWFObject("http://www.habbo.fr/flash/HabboRegistration.swf", "habboreg", "435", "400", "8");
-swfobj.addParam("base", "http://www.habbo.fr/flash/");
+var swfobj = new SWFObject("./flash/HabboRegistration.swf", "habboreg", "435", "400", "8");
+swfobj.addParam("base", "./flash/");
 swfobj.addParam("wmode", "opaque");
 swfobj.addParam("AllowScriptAccess", "always");
-swfobj.addVariable("figuredata_url", "http://www.habbohotel.fr/gamedata/figuredata");
-swfobj.addVariable("draworder_url", "http://www.habbohotel.fr/gamedata/figurepartconfig/draworder");
-swfobj.addVariable("localization_url", "http://www.habbo.fr/figure/figure_editor_xml");
+swfobj.addVariable("figuredata_url", "./xml/figuredata.xml");
+swfobj.addVariable("draworder_url", "./xml/draworder.xml");
+swfobj.addVariable("localization_url", "./xml/figure_editor.xml");
 swfobj.addVariable("figure", "<?php echo $mylook1; ?>");
 swfobj.addVariable("gender", "<?php echo $mysex1; ?>");
 

@@ -2,7 +2,7 @@
 /*===================================================+
 || # HoloCMS - Website and Content Management System
 |+===================================================+
-|| # Copyright © 2008 Meth0d. All rights reserved.
+|| # Copyright ï¿½ 2008 Meth0d. All rights reserved.
 || # http://www.meth0d.org
 |+===================================================+
 || # HoloCMS is provided "as is" and comes without
@@ -203,16 +203,16 @@ include('templates/login/register_header.php');
                 <p><input type="submit" name="refresh" value="Montrer plus de <?php echo $shortname; ?>s" id="register-avatars-refresh" /></p>
             </div>
 
-<script type="text/javascript" language="JavaScript">
-var swfobj = new SWFObject("http://www.habbo.fr/flash/HabboRegistration.swf", "habboreg", "435", "400", "8");
-swfobj.addParam("base", "http://www.habbo.fr/flash/");
+            <script type="text/javascript" language="JavaScript">
+var swfobj = new SWFObject("flash/HabboRegistration.swf", "habboreg", "435", "400", "8");
+swfobj.addParam("base", "flash/");
 swfobj.addParam("wmode", "opaque");
 swfobj.addParam("AllowScriptAccess", "always");
-swfobj.addVariable("figuredata_url", "http://www.habbohotel.fr/gamedata/figuredata");
-swfobj.addVariable("draworder_url", "http://www.habbohotel.fr/gamedata/figurepartconfig/draworder");
-swfobj.addVariable("localization_url", "http://www.habbo.fr/figure/figure_editor_xml");
-swfobj.addVariable("figure", "");
-swfobj.addVariable("gender", "");
+swfobj.addVariable("figuredata_url", "xml/figuredata.xml");
+swfobj.addVariable("draworder_url", "xml/draworder.xml");
+swfobj.addVariable("localization_url", "xml/figure_editor.xml");
+swfobj.addVariable("figure", "<?php echo $mylook1; ?>");
+swfobj.addVariable("gender", "<?php echo $mysex1; ?>");
 
 swfobj.addVariable("showClubSelections", "0");
 
