@@ -85,7 +85,7 @@
 <li>Meth0d's profile : <a href="http://forum.ragezone.com/members/325126.html">RageZone</a></li>
 <li>Swayn's profile : <a href="https://habbo-dev.fr/membre/748-swayn/">HabboDev</a></li>
 <li>HSource : <a href="https://hsource.fr/">HSource</a></li>
-<li>Official Subject : <a href="https://habbo-dev.fr">HabboDev</a></li>
+<li>Official Subject : <a href="https://habbo-dev.fr/topic/8706-hrw-cms-v20-v26-the-return-of-one-of-the-most-popular-cms">HabboDev</a></li>
 
 <hr>
 
