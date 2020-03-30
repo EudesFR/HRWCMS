@@ -73,4 +73,8 @@
 <li>For the moment, the homepages can't access the images since the domain name containing them has been removed by Habbo, so you'll have to make sure to retrieve and assemble them for free thanks to the different directories on <a href="https://habboemotion.com/category/images"><b>HabboEmotion</b></a> (if you're in a hurry or if you have bases)</li>
 <li>A problem has been encountered on my side on the registration page, this problem is fixable, but I haven't had time to fix it yet, so if you're in a hurry and you have PHP knowledge allowing you to, you can fix the bug via the "<b>register.php</b>" file</li>
 <li>The change of look on the site encounters a bug, and this bug is probably due to the fact that a swf file is missing at the root of the CMS, I'm working on it, but if you have the solution, don't hesitate to test it!</li>
+<li>The link to the avatarimage is outdated, but to fix this problem it's as simple as saying "hello". You just have to intervene in the "me.php" and modify the avatarimage link to the link used on the "community.php" page.</li>
+
+<p>Message from the owner of this directory about these bugs</p>
+<blockquote>These are fixable bugs, you just have to have the skills to fix them. If any of you manage to fix these little bugs before me, I invite you to share them with the community for FREE, otherwise I would have to remove all sources from this directory. This directory, these sources and this tutorial are FREE and MUST remain FREE. This directory is bound to evolve, this is only the first production, future productions will be improved and fixed over time!</blockquote>
 
