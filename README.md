@@ -64,4 +64,13 @@
 
 <hr>
 <h3>Play</h3>
-<li>Shockwave is not any more topical, and the v26 use it to function, of the blow, you will have to do without Chrome, Opera or Firefox to play your v26, it will then be necessary to install the navigator <a href="https://www.palemoon.org/download.shtml"><b>PaleMoon</b></a> which accepts <b>ShockWave</b></li>
+<li><b>Shockwave</b> is not any more topical, and the v26 use it to function, you will have to do without Chrome, Opera or Firefox to play your v26, it will then be necessary to install the <a href="https://www.palemoon.org/download.shtml"><b>PaleMoon</b></a> browser which accepts <b>ShockWave</b></li>
+<li>If everything has been well configured, and that all the prerequisite features meet the expectations, you will be able to enjoy your v26, have a good game!</li>
+
+<hr>
+<h3>Bugs</h3>
+<p>Bugs that currently exist in the pack but are easily fixable can be found here :</p>
+<li>For the moment, the homepages can't access the images since the domain name containing them has been removed by Habbo, so you'll have to make sure to retrieve and assemble them for free thanks to the different directories on <a href="https://habboemotion.com/category/images"><b>HabboEmotion</b></a> (if you're in a hurry or if you have bases)</li>
+<li>A problem has been encountered on my side on the registration page, this problem is fixable, but I haven't had time to fix it yet, so if you're in a hurry and you have PHP knowledge allowing you to, you can fix the bug via the "<b>register.php</b>" file</li>
+<li>The change of look on the site encounters a bug, and this bug is probably due to the fact that a swf file is missing at the root of the CMS, I'm working on it, but if you have the solution, don't hesitate to test it!</li>
+
