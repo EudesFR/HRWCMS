@@ -50,3 +50,5 @@
 <li>Once connected to your VPS, you will need to disable all firewalls</li>
 <li>In the emulator folder you will find 2 softwares to install before launching the emulator</li>
 <li>Once the software is up and running, you'll need to configure the emulator in the "<b>bin\Debug\bin\mysql.ini</b>" file.</li>
+<li>Finally, you'll have to run the "bin\Debug\Holograph Emulator" software</li>
+<li>Cool, your emulator is up and running and ready to receive users</li>
