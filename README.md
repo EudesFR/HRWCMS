@@ -75,6 +75,8 @@
 <li>The change of look on the site encounters a bug, and this bug is probably due to the fact that a swf file is missing at the root of the CMS, I'm working on it, but if you have the solution, don't hesitate to test it!</li>
 <li>The link to the avatarimage is outdated, but to fix this problem it's as simple as saying "hello". You just have to intervene in the "me.php" and modify the avatarimage link to the link used on the "community.php" page.</li>
 
+<hr>
+
 <h3>Message from the owner of this directory about these bugs</h3>
 <blockquote><i>These are fixable bugs, you just have to have the skills to fix them. If any of you manage to fix these little bugs before me, I invite you to share them with the community for FREE, otherwise I would have to remove all sources from this directory. This directory, these sources and this tutorial are FREE and MUST remain FREE. This directory is bound to evolve, this is only the first production, future productions will be improved and fixed over time!</i></blockquote>
 
@@ -84,3 +86,7 @@
 <li>Swayn's profile : <a href="https://habbo-dev.fr/membre/748-swayn/">HabboDev</a></li>
 <li>HSource : <a href="https://hsource.fr/">HSource</a></li>
 <li>Official Subject : <a href="https://habbo-dev.fr">HabboDev</a></li>
+
+<hr>
+
+<h3>Conclusion</h3>
