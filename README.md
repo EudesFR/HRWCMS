@@ -31,4 +31,4 @@
 <li>Download the entire pack of this directory</li>
 <li>Start by transferring the contents of the "CMS" folder to your website</li>
 <li>To do things properly, I strongly advise to dissociate the DCR's from the CMS by creating a sub-domain specially designed to contain the DCR's (but you can, if you want, create a "v26" folder at the root of your website and transfer the DCR's there)</li>
-<li>Once the DCR's have been transferred, you will have to go to the root folder, and modify the file "<b>vars.txt</b>", by replacing "http://####SITE####/v26/" by the link of your DCR's</li>
+<li>Once the DCR's have been transferred, you will have to go to the root folder, and modify the file "<b>vars.txt</b>", by replacing "<b>http://####SITE####/v26/</b>" by the link of your DCR's</li>
