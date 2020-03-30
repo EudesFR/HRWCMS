@@ -178,25 +178,25 @@ include('templates/login/register_header.php');
                 <p><b>Adobe Flash Player est requis. Tu va utiliser une autre version pour choisir ton Habbo.</b></p>
                 <h3>Fille</h3>
                 <div class="register-avatars clearfix">
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-505-39.hd-626-1.ch-691-83.lg-705-67.sh-735-91.ha-1001-.ea-1401-84,s-0.g-1.d-4.h-4.a-0,b72abee33635a00982228c1f9215ae9a.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-505-39.hd-626-1.ch-691-83.lg-705-67.sh-735-91.ha-1001-.ea-1401-84,s-0.g-1.d-4.h-4.a-0,b72abee33635a00982228c1f9215ae9a.gif)">
                         <input type="radio" name="randomFigure" value="F-hr-505-39.hd-626-1.ch-691-83.lg-705-67.sh-735-91.ha-1001-.ea-1401-84" checked="checked" />
                     </div>
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-530-44.hd-615-10.ch-630-89.lg-705-67.sh-740-62.fa-1206-91.wa-2001-,s-0.g-1.d-4.h-4.a-0,161dda9150b648cd14ff1aa9d9dcc5ad.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-530-44.hd-615-10.ch-630-89.lg-705-67.sh-740-62.fa-1206-91.wa-2001-,s-0.g-1.d-4.h-4.a-0,161dda9150b648cd14ff1aa9d9dcc5ad.gif)">
                         <input type="radio" name="randomFigure" value="F-hr-530-44.hd-615-10.ch-630-89.lg-705-67.sh-740-62.fa-1206-91.wa-2001-" />
                     </div>
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-681-40.hd-629-1.ch-675-86.lg-700-78.sh-725-82,s-0.g-1.d-4.h-4.a-0,1aba810a364a5410115f463f6963f7e1.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-681-40.hd-629-1.ch-675-86.lg-700-78.sh-725-82,s-0.g-1.d-4.h-4.a-0,1aba810a364a5410115f463f6963f7e1.gif)">
                         <input type="radio" name="randomFigure" value="F-hr-681-40.hd-629-1.ch-675-86.lg-700-78.sh-725-82" />
                     </div>
                 </div>
                 <h3>Mec</h3>
                 <div class="register-avatars clearfix">
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-105-34.hd-205-6.ch-878-78.lg-281-76.sh-906-67,s-0.g-1.d-4.h-4.a-0,469e46ac01e81f244eb50b4ca7a43520.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-105-34.hd-205-6.ch-878-78.lg-281-76.sh-906-67,s-0.g-1.d-4.h-4.a-0,469e46ac01e81f244eb50b4ca7a43520.gif)">
                         <input type="radio" name="randomFigure" value="M-hr-105-34.hd-205-6.ch-878-78.lg-281-76.sh-906-67" />
                     </div>
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-170-44.hd-207-9.ch-210-84.lg-285-75.sh-290-67,s-0.g-1.d-4.h-4.a-0,430994a364251faa1302b37ca50f6ea9.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-170-44.hd-207-9.ch-210-84.lg-285-75.sh-290-67,s-0.g-1.d-4.h-4.a-0,430994a364251faa1302b37ca50f6ea9.gif)">
                         <input type="radio" name="randomFigure" value="M-hr-170-44.hd-207-9.ch-210-84.lg-285-75.sh-290-67" />
                     </div>
-                    <div class="register-avatar" style="background-image: url(http://www.habbo.fr/habbo-imaging/avatar/hr-145-33.hd-180-10.ch-250-91.lg-270-64.sh-290-75.ea-1406-,s-0.g-1.d-4.h-4.a-0,c52a0478283776654483107d0ca2a2fd.gif)">
+                    <div class="register-avatar" style="background-image: url(http://www.habbo.co.uk/habbo-imaging/avatar/hr-145-33.hd-180-10.ch-250-91.lg-270-64.sh-290-75.ea-1406-,s-0.g-1.d-4.h-4.a-0,c52a0478283776654483107d0ca2a2fd.gif)">
                         <input type="radio" name="randomFigure" value="M-hr-145-33.hd-180-10.ch-250-91.lg-270-64.sh-290-75.ea-1406-" />
                     </div>
                 </div>
