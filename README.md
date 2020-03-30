@@ -52,3 +52,11 @@
 <li>Once the software is up and running, you'll need to configure the emulator in the "<b>bin\Debug\bin\mysql.ini</b>" file.</li>
 <li>Finally, you'll have to run the "bin\Debug\Holograph Emulator" software</li>
 <li>Cool, your emulator is up and running and ready to receive users</li>
+
+<hr>
+
+<h3>CLIENT Config Guide</h3>
+<li>You'll have to log in and go to "<b>http:/YOURSITE/housekeeping/index.php?p=loader</b>"</li>
+<li>You will then need to fill in the information for the DCR's and your VPS in the fields provided</li>
+<li>Once you have configured everything, you will need to go to "<b>http:/YOURSITE/housekeeping/index.php?p=server</b>"</li>
+<li>Here you will need to fill in the information of your VPS</li>
