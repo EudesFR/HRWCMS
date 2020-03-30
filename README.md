@@ -90,3 +90,8 @@
 <hr>
 
 <h3>Conclusion</h3>
+<blockquote>
+  <i>
+    These sources have been made available with the aim of perpetuating the old user community, which remained tightly knit until the end. These sources are also available as a result of an increased lack of humanism on the part of <a href="http://forum.ragezone.com/members/861739.html"><b>Quackster</b></a>, which is aware that many would dream of having a v26, but to which it has never given anything. I invite all former v26 followers to contribute their skills in order to make this project evolve, which is to keep v26 alive. <b>Remember, we have, we are and we will be a united, creative and ambitious community!</b>
+  </i>
+</blockquote>
