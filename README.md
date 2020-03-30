@@ -33,3 +33,6 @@
 <li>To do things properly, I strongly advise to dissociate the DCR's from the CMS by creating a sub-domain specially designed to contain the DCR's (but you can, if you want, create a "v26" folder at the root of your website and transfer the DCR's there)</li>
 <li>Once the DCR's have been transferred, you will have to go to the root folder, and modify the file "<b>vars.txt</b>", by replacing "<b>http://####SITE####/v26/</b>" by the link of your DCR's</li>
 <li>It will then be necessary to import the "<b>holosql.sql</b>" database into your database</li>
+<li>Once the CMS, DCR's and SQL have been imported, you'll need to go to "http://<b>YOURSITE</b>/install".</li>
+<li>You will then have to follow the installation system and insert the required values</li>
+<li>Once the installation process is complete, you will need to remove the files "<b>install.php</b>" and "<b>upgrade.php</b>" from your website</li>
