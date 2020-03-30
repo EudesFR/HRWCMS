@@ -39,3 +39,6 @@
 <li>Well done, your CMS is connected to your DB and is ready to be configured to work</li>
 
 <hr>
+
+<h3>Live Preview</h3>
+<p>If you wish to get a rendering, go to <a href="https://bobbagalaxy.fr"><b>BobbaGalaxy</b></a> (the server is not turned on because it is not in use)</p>
