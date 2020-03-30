@@ -27,7 +27,7 @@
 
 <hr>
 
-<h3>Installation Guide</h3>
+<h3>CMS Installation Guide</h3>
 <li>Download the entire pack of this directory</li>
 <li>Start by transferring the contents of the "CMS" folder to your website</li>
 <li>To do things properly, I strongly advise to dissociate the DCR's from the CMS by creating a sub-domain specially designed to contain the DCR's (but you can, if you want, create a "v26" folder at the root of your website and transfer the DCR's there)</li>
@@ -36,3 +36,6 @@
 <li>Once the CMS, DCR's and SQL have been imported, you'll need to go to "http://<b>YOURSITE</b>/install".</li>
 <li>You will then have to follow the installation system and insert the required values</li>
 <li>Once the installation process is complete, you will need to remove the files "<b>install.php</b>" and "<b>upgrade.php</b>" from your website</li>
+<li>Well done, your CMS is connected to your DB and is ready to be configured to work</li>
+
+<hr>
